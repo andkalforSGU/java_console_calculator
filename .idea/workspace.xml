@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9fef572d-733b-4284-85ca-0e6cefc7a365" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1VILGoH9HNjrmSKHuy3EIp4MAJz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="java-console-calculator0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9fef572d-733b-4284-85ca-0e6cefc7a365" name="Default Changelist" comment="" />
+      <created>1576935569968</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576935569968</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="654" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1576964736151">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="654" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800@0.0.1280.800" timestamp="1576964736151" />
+    <state x="834" y="504" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1577020650539">
+      <screen x="67" y="27" width="1853" height="1173" />
+    </state>
+    <state x="834" y="504" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/67.27.1853.1173@67.27.1853.1173" timestamp="1577020650539" />
+    <state width="1807" height="318" key="GridCell.Tab.0.bottom" timestamp="1577024071263">
+      <screen x="67" y="27" width="1853" height="1173" />
+    </state>
+    <state width="1807" height="318" key="GridCell.Tab.0.bottom/67.27.1853.1173@67.27.1853.1173" timestamp="1577024071263" />
+    <state width="1807" height="318" key="GridCell.Tab.0.center" timestamp="1577024071262">
+      <screen x="67" y="27" width="1853" height="1173" />
+    </state>
+    <state width="1807" height="318" key="GridCell.Tab.0.center/67.27.1853.1173@67.27.1853.1173" timestamp="1577024071262" />
+    <state width="1807" height="318" key="GridCell.Tab.0.left" timestamp="1577024071251">
+      <screen x="67" y="27" width="1853" height="1173" />
+    </state>
+    <state width="1807" height="318" key="GridCell.Tab.0.left/67.27.1853.1173@67.27.1853.1173" timestamp="1577024071251" />
+    <state width="1807" height="318" key="GridCell.Tab.0.right" timestamp="1577024071263">
+      <screen x="67" y="27" width="1853" height="1173" />
+    </state>
+    <state width="1807" height="318" key="GridCell.Tab.0.right/67.27.1853.1173@67.27.1853.1173" timestamp="1577024071263" />
+    <state x="149" y="0" key="SettingsEditor" timestamp="1576967490661">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="149" y="0" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1576967490661" />
+    <state x="319" y="222" key="com.intellij.ide.util.TipDialog" timestamp="1576935576825">
+      <screen x="0" y="23" width="1280" height="733" />
+    </state>
+    <state x="319" y="222" key="com.intellij.ide.util.TipDialog/0.23.1280.733@0.23.1280.733" timestamp="1576935576818" />
+    <state x="34" y="104" key="new project wizard" timestamp="1576937042997">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="34" y="104" key="new project wizard/0.0.1280.800@0.0.1280.800" timestamp="1576937042997" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1577011426618">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1577011426618" />
+  </component>
+</project>
