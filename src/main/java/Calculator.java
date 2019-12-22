@@ -15,7 +15,7 @@ public class Calculator {
     }
 
     public int calculate(String[] splitExpr) throws CalculatorException {
-        if (splitExpr[0].length() > 1 || splitExpr[2].length() > 1) throw new CalculatorException("ERROR: Число больше 10");//TODO: написать сообщение об ошибке числа больше 10
+        if (splitExpr[0].length() > 2 || splitExpr[2].length() > 2) throw new CalculatorException("ERROR: Число больше 10");//TODO: написать сообщение об ошибке числа больше 10
         else return operation(Integer.parseInt(splitExpr[0]), splitExpr[1], Integer.parseInt(splitExpr[2]));
     }
 }

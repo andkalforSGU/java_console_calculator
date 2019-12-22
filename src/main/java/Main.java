@@ -1,3 +1,4 @@
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class Main  {
@@ -23,6 +24,7 @@ public class Main  {
             //выводим
             if (validator.romeDigits){
                 //обратный перевод
+                if (result == 0) {throw new CalculatorException("ERROR: В римском алфавите отсутствует 0");}
                 RomeTranslator romeTranslator = new RomeTranslator();
                 String romeResult = romeTranslator.translateFromArabicToRome(result);
                 System.out.println(romeResult);

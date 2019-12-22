@@ -44,6 +44,15 @@ public class RomeTranslator {
             case 7: romeUnits = "VII"; break;
             case 8: romeUnits = "VIII"; break;
             case 9: romeUnits = "IX"; break;
+            case -1: romeUnits = "-I"; break;
+            case -2: romeUnits = "-II"; break;
+            case -3: romeUnits = "-III"; break;
+            case -4: romeUnits = "-IV"; break;
+            case -5: romeUnits = "-V"; break;
+            case -6: romeUnits = "-VI"; break;
+            case -7: romeUnits = "-VII"; break;
+            case -8: romeUnits = "-VIII"; break;
+            case -9: romeUnits = "-IX"; break;
             default: romeUnits = ""; break;
         }
         return romeUnits;
